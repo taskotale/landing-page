@@ -5,7 +5,8 @@ body {
 }
 p {
     margin: 0;
-    padding: 10px 0;
+    padding: 5px 0;
+    font-weight: 200;
 }
 
 /* first section */
@@ -88,6 +89,7 @@ h2 {
     display: flex;
     justify-content: center;
     margin: 0 140px;
+    padding-bottom: 5em;
 
 }
 
@@ -109,6 +111,7 @@ h2 {
 .text-pic {
     width: 150px;
     font-size: 18px;
+    font-weight: 200;
     text-align: center;
 }
 
@@ -117,7 +120,7 @@ h2 {
 
 .third {
     background-color: #e5e7eb;
-    padding: 2em 10em;
+    padding: 4em 15em;
 }
 .quote {
     text-align: center;
@@ -128,4 +131,50 @@ h2 {
 }
 .signature {
     text-align: end;
+    font-weight: bold;
+}
+
+/* forth section */
+
+.forth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 10em;
+    background-color: #F9FAF8;
+}
+.call-action {
+    padding: 2em 5em;
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}
+.bottom-button {
+    border: solid 1px #F9FAF8;
+}
+
+.right-side1 {
+    flex-shrink: 0;
+}
+.left-side1 {
+    margin-right: 100px;
+}
+
+footer {
+    background-color: #1f2937;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
 }
