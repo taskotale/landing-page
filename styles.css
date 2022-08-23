@@ -46,7 +46,7 @@ button {
     color: #F9FAF8;
     padding: 0.5em 2em;
     border-radius: 10px;
-    border-color: #1f2937;
+    border-color: transparent;
 }
 .left-side {
     flex: 50%;
