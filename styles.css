@@ -117,4 +117,15 @@ h2 {
 
 .third {
     background-color: #e5e7eb;
+    padding: 2em 10em;
+}
+.quote {
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1f2937;
+}
+.signature {
+    text-align: end;
 }
