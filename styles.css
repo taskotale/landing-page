@@ -14,7 +14,7 @@ p {
 .first {
     background-color: #1f2937;
     color: #F9FAF8;
-    padding: 0 7em;
+    padding: 0 7em 7em 7em;
 }
 
 header {
